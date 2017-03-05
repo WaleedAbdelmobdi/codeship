@@ -1,0 +1,8 @@
+{
+	"auths": {
+		"https://index.docker.io/v1/": {
+			"auth": "d2FsZWVkYWJkZWxtb2JkaTpBc2RAMTIzNA==",
+			"email": "wm@marketscape.com"
+		}
+	}
+}
