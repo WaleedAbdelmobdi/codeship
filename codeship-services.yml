@@ -1,6 +1,6 @@
 demo:
   build:
-    image: codeship
+    image: codeship:latest
     dockerfile_path: Dockerfile
   links:
     - redis
